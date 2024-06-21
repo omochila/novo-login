@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+@media screen and (max-width: 350px) {
+    main {
+        width: 100vw;
+        border-radius: 0;
+    }
+}
+
+@media screen and (min-width: 351px) and (max-width: 450px) {
+    main {
+        width: 95vw;
+    }
+}
